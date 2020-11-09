@@ -20,6 +20,14 @@
   padding: 2rem;
 }
 
+#img-div {
+  margin: 1rem;
+}
+
+#img-caption {
+  margin: 15px 0 5px 0;
+}
+
 #img {
   max-width: 100%;
   height: auto;
