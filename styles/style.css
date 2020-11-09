@@ -49,6 +49,17 @@
   margin: 16px 0;
 }
 
+footer p {
+  padding: 5px;
+  font-size: 0.8em;
+}
+
+footer a {
+  text-decoration: none;
+  color: #882244;
+  font-weight: bold;
+}
+
 .text-center {
   text-align: center;
 }
